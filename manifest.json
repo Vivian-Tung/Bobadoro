@@ -11,6 +11,6 @@
     ],
     "action": {
         "default_popup": "popup.html",
-        "default_icon": "pomodoro.png"
+        "default_icon": "bbt-icon.jpg"
     }
 }

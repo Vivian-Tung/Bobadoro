@@ -3,14 +3,13 @@ body {
   font-family: sans-serif;
   display: grid;
   height:auto;
-  min-height:380px;
+  min-height:400px;
   place-items: center;
   min-width: 350px;
   margin: 0;
   padding: 0;
   
 }
-
 
 
 h1 {
@@ -129,10 +128,10 @@ width: 150px;
 
 #timer {
 font-size: 40px;
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-
+font-family: 'Nunito', sans-serif;
+font-weight: bold;
 }
+
 .base-timer {
   position: relative;
   width: 300px;

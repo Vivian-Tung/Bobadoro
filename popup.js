@@ -1,7 +1,7 @@
 const tim = {
-    pomodoro: 25,
+    pomodoro: 55,
     shortBreak: 5,
-    longBreak: 35,
+    longBreak: 15,
     longBreakInterval: 4,
   };
 
